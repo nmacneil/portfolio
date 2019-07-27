@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website",
   "private": true,
-  "description": "Portfolio Website",
+  "description": "Nathan's Portfolio Website",
   "version": "0.1.0",
   "author": "Nathan MacNeil <nate.macneil@gmail.com>",
   "dependencies": {
